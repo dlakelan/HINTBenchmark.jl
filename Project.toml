@@ -1,0 +1,13 @@
+name = "HINTBenchmark"
+uuid = "2f19ba71-c2b0-44cd-8926-ea7efb7d7432"
+authors = ["Daniel Lakeland <dlakelan@street-artists.org> and contributors"]
+version = "0.1.0"
+
+[compat]
+julia = "1"
+
+[extras]
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
+
+[targets]
+test = ["Test"]
